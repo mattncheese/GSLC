@@ -5,22 +5,36 @@ Page Screenshots
 --------------------------------------
 
 ### Jasons
+<div style="flex">
 <img src="https://github.com/mattncheese/GSLC/blob/main/ssPage/pageJasons.png" alt="License" style="width: 500px">
- 
+<img src="https://github.com/mattncheese/GSLC/blob/main/newprofile/jeje.png" alt="License" style="width: 500px">
+</div>
 --------------------------------------
 
 ### Matthew
+<div style="flex">
 <img src="https://github.com/mattncheese/GSLC/blob/main/ssPage/pageMatthew.png" alt="License" style="width: 500px">
+<img src="https://github.com/mattncheese/GSLC/blob/main/newprofile/matt.png" alt="License" style="width: 500px">
+</div>
+
  
 --------------------------------------
 
 ### Vika
+<div style="flex">
 <img src="https://github.com/mattncheese/GSLC/blob/main/ssPage/pageVika.png" alt="License" style="width: 500px">
+<img src="https://github.com/mattncheese/GSLC/blob/main/newprofile/vika.png" alt="License" style="width: 500px">
+</div>
+
  
 --------------------------------------
 
 ### Vieren
+<div style="flex">
 <img src="https://github.com/mattncheese/GSLC/blob/main/ssPage/pageVieren.png" alt="License" style="width: 500px">
+<img src="https://github.com/mattncheese/GSLC/blob/main/newprofile/vieren.png" alt="License" style="width: 500px">
+</div>
+
  
 --------------------------------------
 
